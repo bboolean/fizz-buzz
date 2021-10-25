@@ -1,32 +1,40 @@
 # fizz-buzz
 
-FIXME: description
+Print [Fizz Buzz](https://en.wikipedia.org/wiki/Fizz_buzz) from 1 to 100
 
-## Installation
+## Run
 
-Download from http://example.com/FIXME.
+```
+$ lein run
+1
+2
+Fizz
+4
+Buzz
+Fizz
+7
+8
+Fizz
+Buzz
+11
+Fizz
+13
+14
+FizzBuzz
+16
+17
+Fizz
+19
+Buzz
+Fizz
+(etc.)
+```
 
-## Usage
+## Tests
 
-FIXME: explanation
-
-    $ java -jar fizz-buzz-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
+```
+$ lein test
+```
 
 ## License
 
