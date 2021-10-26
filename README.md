@@ -1,6 +1,6 @@
 # fizz-buzz
 
-Print [Fizz Buzz](https://en.wikipedia.org/wiki/Fizz_buzz) from 1 to 100
+Print [Fizz Buzz](https://en.wikipedia.org/wiki/Fizz_buzz) from 1 to 100.
 
 ## Run
 
